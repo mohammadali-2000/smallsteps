@@ -1,0 +1,14 @@
+# System
+.DS_Store
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Build Artifacts
+frontend/dist/
+backend/target/
+node_modules/
